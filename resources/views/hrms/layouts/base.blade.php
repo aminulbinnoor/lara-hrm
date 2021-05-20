@@ -480,8 +480,8 @@
         <footer id="content-footer" class="affix">
             <div class="row">
                 <div class="col-md-6">
-                    <span class="footer-legal">KANAK © 2016 All rights reserved. By <a
-                                href="http://www.kanakmanjari.com/" target="_blank">Kanak Manjari</a></span>
+                    <span class="footer-legal">Aminul © 2016 All rights reserved. By <a
+                                href="https://www.facebook.com/aminul32" target="_blank">Aminul Islam</a></span>
                 </div>
                 <div class="col-md-6 text-right">
                     <span class="footer-meta"></span>
